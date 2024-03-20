@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem;
+}
+
+#canvas1 {
+    outline: 0.25rem solid black;
+    margin: 1rem;
+}
+#animation {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    width: 10rem;
+    text-align: center;
+}
