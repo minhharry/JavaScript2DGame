@@ -5,7 +5,7 @@ select.onchange = updateFrame;
 
 const CANVAS_WIDTH = canvas1.width = 500;
 const CANVAS_HEIGHT = canvas1.height = 500;
-console.log(CANVAS_WIDTH)
+
 const spriteWidth = 575;
 const spriteHeight = 523;
 
